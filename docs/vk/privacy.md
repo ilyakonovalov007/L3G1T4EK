@@ -14,7 +14,12 @@ layout: page
   </h1>
 
   <div style="background: var(--vp-c-bg-soft); padding: 20px; border-radius: 12px; border-left: 4px solid #2787f5; margin-bottom: 30px;">
-    <p style="font-size: 1.15rem; line-height: 1.6; margin: 0;"><strong>Зачем закрывать страницу?</strong> Излишняя публичность ВКонтакте помогает мошенникам. По открытым фото, списку групп и постам злоумышленник <strong>собирает убедительную легенду</strong>. Он может скопировать ваш стиль общения, узнать круг ваших близких и использовать реальные события из вашей жизни, чтобы обмануть ваших знакомых или вас самих.</p>
+    <p style="font-size: 1.15rem; line-height: 1.6; margin: 0;">С учетом многомилионной аудитории совсем неудивительно, что среди них не только добропорядочные пользователи, но и мошенники. Вам могут навязывать услуги в личных сообщениях, оставлять рекламные посты на личных страницах, писать гадости в комментариях и оговаривать вас перед вашими друзьями — и для этого вам вовсе не обязательно быть медийной персоной.</p>
+    <p style="font-size: 1.15rem; line-height: 1.6; margin: 15px 0 0 0;"><strong>Защитить аккаунт от излишнего внимания посторонних поможет грамотная настройка вашей учетной записи.</strong></p>
+  </div>
+
+  <div style="display: flex; justify-content: center; margin-bottom: 40px;">
+    <img src="/vk_privacy_intro.jpg" alt="Открытый и закрытый профиль" style="display: block; margin: 0 auto; max-height: 400px; width: auto; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
   </div>
   
   <h2 style="margin-top: 0; margin-bottom: 20px;">🛡️ Что нужно скрыть в первую очередь:</h2>
@@ -37,6 +42,16 @@ layout: page
       <p style="font-size: 1rem; line-height: 1.5; color: var(--vp-c-text-2); margin-bottom: 0;">Дата рождения и телефон — это основа для взлома банковских аккаунтов и подбора паролей. Обязательно скройте эти данные от посторонних.</p>
     </div>
   </div>
+</div>
+
+<hr style="border: 0; border-top: 1px solid var(--vp-c-divider); margin: 40px 0;">
+
+<h2 style="margin-top: 0; margin-bottom: 15px;">⚙️ Как найти этот раздел в приложении</h2>
+<p style="font-size: 1.1rem; color: var(--vp-c-text-2); margin-bottom: 25px;">Перейдите в главное меню вашей страницы, откройте раздел <strong>«Настройки»</strong>, а затем выберите пункт <strong>«Приватность»</strong>:</p>
+
+<div style="display: flex; gap: 20px; margin-bottom: 40px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <img src="/vk_privacy_step1.jpg" alt="Шаг 1: Настройки" style="max-height: 500px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  <img src="/vk_privacy_step2.jpg" alt="Шаг 2: Приватность" style="max-height: 500px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 </div>
 
 <hr style="border: 0; border-top: 1px solid var(--vp-c-divider); margin: 40px 0;">

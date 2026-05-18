@@ -36,6 +36,71 @@ layout: page
       <p style="font-size: 1rem; line-height: 1.5; margin: 0;">Их либо почти нет, либо <strong>около ста человек</strong> (почему-то мошенники любят это число). Все они с такими же полупустыми страничками.</p>
     </div>
   </div>
+
+  <p style="font-size: 1.1rem; color: var(--vp-c-text-2); margin-bottom: 15px; text-align: center;">Примеры типичных мошеннических страниц:</p>
+  <div style="display: flex; gap: 20px; margin-bottom: 45px; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="/fake_profile_1.jpg" alt="Пример фейкового профиля 1" style="max-height: 550px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <img src="/fake_profile_2.jpg" alt="Пример фейкового профиля 2" style="max-height: 550px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+  </div>
+  
+  <h2 style="margin-top: 0; font-size: 1.8rem; margin-bottom: 25px;">🚨 3 популярных сценария развода</h2>
+
+  <!-- Сценарий 1 -->
+  <div class="scam-card">
+    <div class="scam-content">
+      <h3 style="color: #ef4444; margin-top: 0; font-size: 1.3rem;">Развод № 1. «Друг, выручи деньгами!»</h3>
+      <p class="scam-text"><strong>Как выглядит развод:</strong> Вам пишет кто-то из друзей и просит помочь: скажем, одолжить денег или провести платеж. Иногда просят много, десятки и сотни тысяч рублей — якобы они нужны на срочную операцию или подкуп чиновника. Иногда это пара тысяч «до завтра». Некоторые мошенники вообще не просят денег — наоборот, предлагают перевести их на вашу карту.</p>
+      <div class="defense-box">
+        <strong>Как защититься:</strong> Возьмите паузу: отложите телефон, выпейте стакан воды, сделайте несколько глубоких вдохов. Запретите себе что-то делать хотя бы одну минуту. За это время точно ничего страшного не случится, а мозг успеет переключиться на новую задачу. Затем позвоните знакомому, который просит помочь. Возможно, его аккаунт взломали и мошенник под видом этого человека пытается выманить у вас деньги.
+      </div>
+    </div>
+    <div class="scam-image-wrapper">
+      <img src="/vk_scam_1.jpg" alt="Скриншот переписки с другом" class="scam-image">
+    </div>
+  </div>
+
+  <div class="custom-separator">
+    <div class="line"></div>
+    <div class="icon">🛡️</div>
+    <div class="line"></div>
+  </div>
+
+  <!-- Сценарий 2 -->
+  <div class="scam-card">
+    <div class="scam-content">
+      <h3 style="color: #ef4444; margin-top: 0; font-size: 1.3rem;">Развод № 2. «Помогите больному ребенку!»</h3>
+      <p class="scam-text"><strong>Как выглядит развод:</strong> Мошенники публикуют посты, в которых давят на жалость и просят срочно помочь больному ребенку. Часто в таких постах почти нет сведений о болезни или самом ребенке, зато много подробностей, которые могут вызвать жалость: бедная семья, некому заботиться, срочная операция.</p>
+      <p class="scam-text">Сборы сопровождаются фотографиями больных детей и документами со страшными диагнозами. Правда, в документах зачастую замазаны все личные данные, чтобы вы не вычислили, кому они на самом деле принадлежат.</p>
+      <div class="defense-box">
+        <strong>Как защититься:</strong> Убедитесь, что больной ребенок существует и ваши деньги пойдут на его лечение. Ищите подробности: Имя, фамилия, диагноз ребенка и город, где он лечится, а также название фонда, который собирает деньги. Все это должно быть в объявлении о сборе денег. У мошенников вместо подробностей — эмоции.
+      </div>
+    </div>
+    <div class="scam-image-wrapper">
+      <img src="/vk_scam_2.jpg" alt="Скриншот сбора средств" class="scam-image">
+    </div>
+  </div>
+
+  <div class="custom-separator">
+    <div class="line"></div>
+    <div class="icon">🛡️</div>
+    <div class="line"></div>
+  </div>
+
+  <!-- Сценарий 3 -->
+  <div class="scam-card">
+    <div class="scam-content">
+      <h3 style="color: #ef4444; margin-top: 0; font-size: 1.3rem;">Развод № 3. «Устройся на простую работу с огромной зарплатой»</h3>
+      <p class="scam-text"><strong>Как выглядит развод:</strong> В группах с вакансиями можно встретить сообщения от людей, которые предлагают много денег за простую работу. Платят несколько тысяч рублей в день, работа из дома, опыт не нужен, всему научат.</p>
+      <p class="scam-text"><strong>Что должно насторожить:</strong> Высокая плата за простую работу и просьба что-то заплатить для получения денег. Честный работодатель просто удержит нужную сумму из первой зарплаты.</p>
+      <div class="defense-box">
+        <strong>Как защититься:</strong> Ничего не платите и требуйте оформить договор.
+      </div>
+    </div>
+    <div class="scam-image-wrapper">
+      <img src="/vk_scam_3.jpg" alt="Скриншот фальшивой вакансии" class="scam-image">
+    </div>
+  </div>
+
 </div>
 
 <hr style="border: 0; border-top: 1px solid var(--vp-c-divider); margin: 40px 0;">
@@ -189,6 +254,88 @@ const finishLesson = () => {
   padding: 15px; 
   border-radius: 10px; 
   border: 1px solid var(--vp-c-divider);
+}
+
+.scam-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  background: var(--vp-c-bg-alt);
+  padding: 25px;
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  margin-bottom: 10px;
+}
+
+.scam-content {
+  flex: 1;
+  min-width: 250px;
+}
+
+.scam-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-1);
+  margin-bottom: 12px;
+}
+
+.defense-box {
+  background: rgba(16, 185, 129, 0.1);
+  border-left: 4px solid #10b981;
+  padding: 15px;
+  border-radius: 0 8px 8px 0;
+  margin-top: 15px;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: var(--vp-c-text-1);
+}
+
+.scam-image-wrapper {
+  flex-shrink: 0;
+  width: 650px;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.scam-image {
+  width: 100%;
+  height: auto;
+  max-height: 800px;
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.custom-separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 25px 0;
+  opacity: 0.7;
+}
+
+.custom-separator .line {
+  flex: 1;
+  height: 1px;
+  background: var(--vp-c-divider);
+  max-width: 200px;
+}
+
+.custom-separator .icon {
+  padding: 0 15px;
+  font-size: 1.3rem;
+}
+
+@media (max-width: 900px) {
+  .scam-image-wrapper {
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .scam-image {
+    max-width: 500px;
+  }
 }
 
 button:hover {

@@ -9,7 +9,7 @@ layout: home
       <p class="hero-subtitle">Безопасность в соцсетях</p>
       <p class="hero-tagline">Интерактивный курс по защите аккаунтов</p>
       <div class="hero-actions">
-        <a href="/tg-info" class="action-btn">Начать обучение →</a>
+        <a href="/intro-page" class="action-btn">Начать обучение →</a>
       </div>
     </div>
     <div id="topics" class="tabs-container">

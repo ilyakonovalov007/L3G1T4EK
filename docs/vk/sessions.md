@@ -8,12 +8,37 @@ layout: page
   <h1 style="font-size: 2.8rem; font-weight: 800; line-height: 1.3; padding-bottom: 10px; margin-bottom: 20px;">
   <span>📱</span>
   <span style="background: linear-gradient(120deg, #4c75a3, #2787f5); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Активные сессии и 2FA
+    2FA и Активные сессии
   </span>
 </h1>
 
   <div style="background: var(--vp-c-bg-soft); padding: 20px; border-radius: 12px; border-left: 4px solid #2787f5; margin-bottom: 25px;">
     <p style="font-size: 1.15rem; line-height: 1.6; margin: 0;"><strong>Двухфакторная аутентификация (2FA)</strong> — это ваш главный щит. Благодаря ей, даже если мошенники узнают ваш пароль, они не смогут войти в аккаунт без доступа к вашей почте или телефону (SMS-кода).</p>
+  </div>
+
+  <h3 style="margin-top: 0; font-size: 1.4rem; line-height: 1.6; margin-bottom: 15px;">🛡️ Преимущества защиты аккаунта через 2FA:</h3>
+  <ul style="list-style: none; padding: 0; font-size: 1.05rem; line-height: 1.6; margin-bottom: 25px;">
+    <li style="margin-bottom: 12px; display: flex; gap: 10px;">
+      <span style="font-size: 1.2rem;">🧱</span>
+      <span><strong>Блокировка 99.9% автоматизированных атак</strong> — согласно данным Microsoft, 2FA эффективно предотвращает практически все попытки взлома с использованием украденных учётных данных.</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; gap: 10px;">
+      <span style="font-size: 1.2rem;">🎣</span>
+      <span><strong>Защита от фишинга</strong> — даже если вы случайно введёте пароль на поддельном сайте, злоумышленники не смогут войти без второго фактора.</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; gap: 10px;">
+      <span style="font-size: 1.2rem;">🚨</span>
+      <span><strong>Уведомления о попытках входа</strong> — вы сразу узнаете, если кто-то пытается получить несанкционированный доступ к вашему аккаунту.</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; gap: 10px;">
+      <span style="font-size: 1.2rem;">🔒</span>
+      <span><strong>Защита личных сообщений и данных</strong> — особенно важно, если вы используете ВКонтакте для рабочих целей или храните конфиденциальную информацию.</span>
+    </li>
+  </ul>
+
+  <div style="display: flex; gap: 20px; margin-bottom: 35px; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="/2fa_step1.jpg" alt="Настройка 2FA шаг 1" style="max-height: 550px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <img src="/2fa_step2.jpg" alt="Настройка 2FA шаг 2" style="max-height: 550px; width: auto; max-width: 100%; border-radius: 8px; border: 1px solid var(--vp-c-divider); box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   </div>
 
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 25px;">
