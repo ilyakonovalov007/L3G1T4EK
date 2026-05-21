@@ -38,8 +38,10 @@ layout: home
 </div>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
+
 const activeTab = ref(0)
+
 const tabs = [
   { 
     title: "ВКонтакте", 
@@ -54,6 +56,28 @@ const tabs = [
     link: "/max-info" 
   }
 ]
+
+// Функция, которая будет срабатывать при клике на кнопку "Начать обучение"
+const startEducation = () => {
+  if (typeof window !== 'undefined') {
+    // Проверяем, показывалось ли сообщение в текущей сессии (вкладке)
+    const wasShown = sessionStorage.getItem('main_welcome_shown') === 'true'
+    
+    if (!wasShown) {
+      // Если это первый клик за сессию — выводим сообщение
+      alert('Добро пожаловать в интерактивный курс! Выберите интересующий вас модуль (ВКонтакте или МАКС) ниже, чтобы приступить к практическим занятиям.')
+      
+      // Запоминаем, что в этой сессии сообщение уже показали
+      sessionStorage.setItem('main_welcome_shown', 'true')
+    }
+    
+    // Плавный скролл вниз к карточкам выбора модулей (опционально, если у контейнера есть id="modules")
+    const modulesContainer = document.getElementById('modules')
+    if (modulesContainer) {
+      modulesContainer.scrollIntoView({ behavior: 'smooth' })
+    }
+  }
+}
 </script>
 
 <style scoped>
